@@ -1,0 +1,15 @@
+[
+ {
+  "table":"T005U",
+  "data":
+  [
+   {
+    "MANDT":"100",
+    "SPRAS":"E",
+    "LAND1":"AR",
+    "BLAND":"PP",
+    "BEZEI":"Test"
+   }
+  ]
+ }
+]
