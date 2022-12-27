@@ -9,6 +9,13 @@
     "LAND1":"AR",
     "BLAND":"PP",
     "BEZEI":"Test3"
+   },
+   {
+    "MANDT":"100",
+    "SPRAS":"E",
+    "LAND1":"BR",
+    "BLAND":"YY",
+    "BEZEI":"Conflict 1 Main"
    }
   ]
  }

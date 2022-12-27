@@ -20,6 +20,24 @@
      }
     ],
     "hash":"HtepiAFYwYfJtP0YMpNus5WxxjU="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"100"
+     },
+     {
+      "key":"LAND1",
+      "value":"BR"
+     },
+     {
+      "key":"BLAND",
+      "value":"YY"
+     }
+    ],
+    "hash":"XwrHpngxykmTSSzPeC050Gb5sEQ="
    }
   ]
  },
@@ -48,6 +66,28 @@
      }
     ],
     "hash":"V06kEGAAyG2cDA9Ct6GdHu0iWnw="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"100"
+     },
+     {
+      "key":"SPRAS",
+      "value":"E"
+     },
+     {
+      "key":"LAND1",
+      "value":"BR"
+     },
+     {
+      "key":"BLAND",
+      "value":"YY"
+     }
+    ],
+    "hash":"vvWjur7q2YofdLAPjkKZtM62UbM="
    }
   ]
  }
