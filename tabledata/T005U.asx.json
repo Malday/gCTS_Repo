@@ -6,6 +6,13 @@
    {
     "MANDT":"100",
     "SPRAS":"E",
+    "LAND1":"AD",
+    "BLAND":"03",
+    "BEZEI":"Encamp2"
+   },
+   {
+    "MANDT":"100",
+    "SPRAS":"E",
     "LAND1":"AR",
     "BLAND":"PP",
     "BEZEI":"Test3"
